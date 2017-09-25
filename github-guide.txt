@@ -1,0 +1,25 @@
+githttps://github.com/sushisoba12/joseihashimoto
+ 
+いつ 誰が 何を 何のために
+
+[login方法 cmd]
+
+git clone (上記アドレス)　→
+cd デポシトリ　→
+git config --global user.name "名前"
+git config --global user.email "emailアドレス"
+
+[notepadの呼び出し]
+notepad 名前.txt
+
+[gitコマンド]
+git status
+ アップロードファイルの有無チェック
+git pull
+ 
+git add　ファイル名
+　データの登録
+git commit -m　"メッセージ"
+　用途の登録
+git push
+　パッケージングしたものの送信
