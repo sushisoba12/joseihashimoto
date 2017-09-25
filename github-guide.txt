@@ -1,25 +1,26 @@
 githttps://github.com/sushisoba12/joseihashimoto
  
-‚¢‚Â ’N‚ª ‰½‚ğ ‰½‚Ì‚½‚ß‚É
+ã„ã¤ èª°ãŒ ä½•ã‚’ ä½•ã®ãŸã‚ã«
 
-[login•û–@ cmd]
+[loginæ–¹æ³• cmd]
 
-git clone (ã‹LƒAƒhƒŒƒX)@¨
-cd ƒfƒ|ƒVƒgƒŠ@¨
-git config --global user.name "–¼‘O"
-git config --global user.email "emailƒAƒhƒŒƒX"
+git clone (ä¸Šè¨˜ã‚¢ãƒ‰ãƒ¬ã‚¹)ã€€â†’
+cd ãƒ‡ãƒã‚·ãƒˆãƒªã€€â†’
+git config --global user.name "åå‰"
+git config --global user.email "emailã‚¢ãƒ‰ãƒ¬ã‚¹"
 
-[notepad‚ÌŒÄ‚Ño‚µ]
-notepad –¼‘O.txt
+[notepadã®å‘¼ã³å‡ºã—]
+notepad åå‰.txt
 
-[gitƒRƒ}ƒ“ƒh]
+[gitã‚³ãƒãƒ³ãƒ‰]
 git status
- ƒAƒbƒvƒ[ƒhƒtƒ@ƒCƒ‹‚Ì—L–³ƒ`ƒFƒbƒN
+ ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒ•ã‚¡ã‚¤ãƒ«ã®æœ‰ç„¡ãƒã‚§ãƒƒã‚¯
 git pull
  
-git add@ƒtƒ@ƒCƒ‹–¼
-@ƒf[ƒ^‚Ì“o˜^
-git commit -m@"ƒƒbƒZ[ƒW"
-@—p“r‚Ì“o˜^
+git addã€€ãƒ•ã‚¡ã‚¤ãƒ«åã€€ï¼ˆall å…¨ã¦ï¼‰
+git rm ãƒ•ã‚¡ã‚¤ãƒ«å
+ã€€ãƒ‡ãƒ¼ã‚¿ã®ç™»éŒ²
+git commit -mã€€"ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸"
+ã€€ç”¨é€”ã®ç™»éŒ²
 git push
-@ƒpƒbƒP[ƒWƒ“ƒO‚µ‚½‚à‚Ì‚Ì‘—M
+ã€€ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°ã—ãŸã‚‚ã®ã®é€ä¿¡
